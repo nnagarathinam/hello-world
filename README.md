@@ -1,2 +1,2 @@
 # hello-world
-Creating a project to get hands-on using github
+Creating a 'Hello-world' project to get hands-on using github and understanding the github repo , commits and pull-requests.
